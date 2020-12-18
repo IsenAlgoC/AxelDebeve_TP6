@@ -1,0 +1,7 @@
+﻿  outil.c
+C:\Users\Axel\source\repos\TP6\outil.c(26,6): warning C4101: 'idx' : variable locale non référencée
+C:\Users\Axel\source\repos\TP6\outil.c(222,43): warning C4133: 'fonction' : types incompatibles - de 'Enregistrement *' à 'const char *'
+C:\Users\Axel\source\repos\TP6\outil.c(247,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Axel\source\repos\TP6\outil.c(253,15): warning C4047: '=' : les niveaux d'indirection de 'char' et de 'char [2]' sont différents
+C:\Users\Axel\source\repos\TP6\outil.c(158): warning C4715: 'est_sup' : les chemins de contrôle ne retournent pas tous une valeur
+  TP6.vcxproj -> C:\Users\Axel\source\repos\TP6\Debug\TP6.exe
